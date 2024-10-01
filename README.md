@@ -4,15 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+# How to run the application Locally
+
+clone/download the repository: git clone https://github.com/archanabansal88/react-CRUD-app.git
+
+run command "npm i" to install dependencies and devDependencies
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Runs the app in the development mode.
+Open [http://localhost:3000] to view it in the browser.
 
 ### `npm test`
 
